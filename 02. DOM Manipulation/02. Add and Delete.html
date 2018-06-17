@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<h1>List of Items</h1>
+<ul id="items"></ul>
+<input type="text" id="newText"/>
+<input type="button" value="Add" onclick="addItem()">
+<script>
+    function addItem() {
+        let item = document.getElementById("newText").value;
+        let li = document.createElement("li");
+        li.textContent = item;
+
+        let a = document.createElement("a");
+        a.href = "#";
+        a.textContent = "[Delete]";
+        a.addEventListener("click", function (event) {
+            let elementForDelete = event.target.parentNode;
+            elementForDelete.parentNode.removeChild(elementForDelete);
+        });
+        li.appendChild(a);
+        document.getElementById("items").appendChild(li);
+    }
+</script>
+</body>
+</html>

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<div id="time" style="border:3px solid blue; text-align:center; font-size:2em; margin-bottom:10px">00:00</div>
+<button id="startBtn">Start</button>
+<button id="stopBtn" disabled="true">Stop</button>
+<script>
+    window.onload = function () {
+        stopwatch();
+    }
+
+    function stopwatch() {
+        let seconds = 0;
+        let interval;
+        let startButton = document.getElementById("startBtn");
+        let stopButton = document.getElementById("stopBtn");
+        startButton.addEventListener("click", start);
+        stopButton.addEventListener("click", stop);
+
+        function start() {
+            seconds = 0;
+            startButton.disabled = true;
+            stopButton.disabled = false;
+            increment();
+            interval = setInterval(increment, 1000);
+        }
+
+        function increment() {
+            let currSec = Math.floor(seconds / 60);
+            let currMinutes = Math.floor(seconds % 60);
+            if (currSec < 10){
+                currSec = "0" + currSec;
+            }
+            if (currMinutes < 10){
+                currMinutes = "0" + currMinutes;
+            }
+            document.getElementById("time").textContent = `${currSec}:${currMinutes}`;
+            seconds++;
+        }
+
+        function stop() {
+            startButton.disabled = false;
+            stopButton.disabled = true;
+            clearInterval(interval);
+        }
+    }
+</script>
+
+</body>
+</html>
