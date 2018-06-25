@@ -3,7 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <title>Search in List</title>
-    <script src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="   crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js"
+            integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
     <script src="search.js"></script>
 </head>
 <body>
@@ -13,16 +14,16 @@
     <li>Varna</li>
     <li>Plovdiv</li>
 </ul>
-<input type="text" id="searchText" />
+<input type="text" id="searchText"/>
 <button onclick="search()">Search</button>
 <div id="result"></div>
 <script>
     function search() {
+        $('#towns li').css("font-weight", '');
         let target = $('#searchText').val();
         let towns = $(`#towns li:contains(${target})`);
-        towns.css('font-weight', '');
+        $("#result").text(`${towns.length} matches found.`);
         towns.css('font-weight', 'bold');
-        $('#result').text(towns.length + " matches found!");
     }
 </script>
 </body>

@@ -1,20 +1,19 @@
 function attachEvents() {
-    $("#items > li").on('click', function () {
-        if ($(this).attr('data-selected')){
-            $(this).removeAttr('data-selected');
-            $(this).css('background-color', "white");
+    $('#items > li').on("click", function () {
+        if ($(this).attr("data-selected")) {
+            $(this).removeAttr("data-selected");
+            $(this).css("background", "");
         }
         else {
-            $(this).attr('data-selected', true);
-            $(this).css('background-color', "#DDD");
+            $(this).attr("data-selected", true);
+            $(this).css("background", "#DDD");
         }
     });
-
-    $('#showTownsButton').onclick("click", function () {
-        let towns = $('#items > li[data-selected=true]')
+    $("#showTownsButton").on("click", function () {
+        let selectedTowns = $('#items > li[data-selected=true]')
             .toArray()
-            .map(x => $(x).text())
+            .map(x => x.textContent)
             .join(", ");
-        $('#selectedTowns').text("Selected towns: " + towns);
+        $("#selectedTowns").text(`Selected towns: ${selectedTowns}`);
     })
 }

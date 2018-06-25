@@ -4,7 +4,6 @@
     <meta charset="UTF-8">
     <title>Text from List</title>
     <script src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="   crossorigin="anonymous"></script>
-    <script src="extractText.js"></script>
 </head>
 <body>
 <ul id="items">
@@ -17,11 +16,12 @@
 <div id="result"></div>
 <script>
     function extractText() {
-        let value = $('#items li')
+        let result = $("#items li")
             .toArray()
-            .map(li => $('li').text()
-                .join(", "));
-        $('#result').text(value);
+            .map(li => $(li).text())
+            .join(", ");
+
+        $("#result").text(result);
     }
 </script>
 </body>
