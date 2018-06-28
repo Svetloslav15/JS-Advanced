@@ -2,8 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b83ce06-0d26-4c6e-b3c5-fb59ea727091" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/11. Unit Testing Exercise/test/02. Odd or Even.js" />
+      <change beforePath="$PROJECT_DIR$/.idea/06. JavaScript Advanced.iml" afterPath="$PROJECT_DIR$/.idea/06. JavaScript Advanced.iml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/09. Object Composition Exercise/07. DOM Highliter.html" afterPath="$PROJECT_DIR$/09. Object Composition Exercise/07. DOM Highliter.html" />
+      <change beforePath="$PROJECT_DIR$/10. Unit Testing/01. Sub Sum.js" afterPath="$PROJECT_DIR$/10. Unit Testing/01. Sub Sum.js" />
+      <change beforePath="$PROJECT_DIR$/10. Unit Testing/02. Playing Cards.js" afterPath="$PROJECT_DIR$/10. Unit Testing/02. Playing Cards.js" />
+      <change beforePath="$PROJECT_DIR$/10. Unit Testing/tests/04. Sum of nums.js" afterPath="$PROJECT_DIR$/10. Unit Testing/tests/04. Sum of nums.js" />
+      <change beforePath="$PROJECT_DIR$/10. Unit Testing/tests/05. Check for Symmetry.js" afterPath="$PROJECT_DIR$/10. Unit Testing/tests/05. Check for Symmetry.js" />
+      <change beforePath="$PROJECT_DIR$/10. Unit Testing/tests/07. Add and Subtract.js" afterPath="$PROJECT_DIR$/10. Unit Testing/tests/07. Add and Subtract.js" />
+      <change beforePath="$PROJECT_DIR$/Exam 18 March/02. Payment Package/payment-package.html" afterPath="$PROJECT_DIR$/Exam 18 March/02. Payment Package/payment-package.html" />
+      <change beforePath="$PROJECT_DIR$/Exam 18 March/02. Payment Package/payment-package.js" afterPath="$PROJECT_DIR$/Exam 18 March/02. Payment Package/payment-package.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,33 +25,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="07. DOM Highliter.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/09. Object Composition Exercise/07. DOM Highliter.html">
+      <file leaf-file-name="02. Odd or Even.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/11. Unit Testing Exercise/test/02. Odd or Even.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="36" column="35" lean-forward="false" selection-start-line="36" selection-start-column="35" selection-end-line="36" selection-end-column="35" />
-              <folding>
-                <element signature="n#style#0;n#head#0;n#html#0;n#!!top" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="03. Accordion.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/03.DOM Manipulation Exercise/03. Accordion.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="book-generator.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/05. jQuery Library Exercise/03. Book Generator/book-generator.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="45" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="7" selection-end-column="45" />
+            <state relative-caret-position="221">
+              <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="32" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -55,8 +41,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -66,18 +52,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/03.DOM Manipulation Exercise/03. Accordion.html" />
-        <option value="$PROJECT_DIR$/03.DOM Manipulation Exercise/04.  Sections.html" />
-        <option value="$PROJECT_DIR$/03.DOM Manipulation Exercise/05. Notification.html" />
-        <option value="$PROJECT_DIR$/03.DOM Manipulation Exercise/06. Time Converter.html" />
-        <option value="$PROJECT_DIR$/03.DOM Manipulation Exercise/timeConverter.js" />
-        <option value="$PROJECT_DIR$/03.DOM Manipulation Exercise/07. Distance Converter.html" />
-        <option value="$PROJECT_DIR$/03.DOM Manipulation Exercise/distanceConverter.js" />
-        <option value="$PROJECT_DIR$/04. jQuery Library/01. Text from List.html" />
-        <option value="$PROJECT_DIR$/04. jQuery Library/02. Search in List.html" />
-        <option value="$PROJECT_DIR$/04. jQuery Library/initialize-table.js" />
-        <option value="$PROJECT_DIR$/04. jQuery Library/select-towns.js" />
-        <option value="$PROJECT_DIR$/04. jQuery Library/05. Selectable Towns.html" />
         <option value="$PROJECT_DIR$/05. jQuery Library Exercise/01. Increment Counter/incrementCounter.html" />
         <option value="$PROJECT_DIR$/05. jQuery Library Exercise/01. Increment Counter/incrementCounter.js" />
         <option value="$PROJECT_DIR$/05. jQuery Library Exercise/02. Timer/timer.html" />
@@ -99,8 +73,6 @@
         <option value="$PROJECT_DIR$/07. Advanced Functions Exercise/01. Sort Array.js" />
         <option value="$PROJECT_DIR$/07. Advanced Functions Exercise/02. Argument Info.js" />
         <option value="$PROJECT_DIR$/07. Advanced Functions Exercise/04. Personal BMI.js" />
-        <option value="$PROJECT_DIR$/Exam 18 March/02. Payment Package/payment-package.js" />
-        <option value="$PROJECT_DIR$/Exam 18 March/02. Payment Package/payment-package.html" />
         <option value="$PROJECT_DIR$/07. Advanced Functions Exercise/03. Functional Sum.js" />
         <option value="$PROJECT_DIR$/07. Advanced Functions Exercise/05. Vector Math.js" />
         <option value="$PROJECT_DIR$/08. Object Composition/01. Order Rectangles.js" />
@@ -117,6 +89,20 @@
         <option value="$PROJECT_DIR$/09. Object Composition Exercise/05. String Extension.js" />
         <option value="$PROJECT_DIR$/09. Object Composition Exercise/06. Sorted List.js" />
         <option value="$PROJECT_DIR$/09. Object Composition Exercise/07. DOM Highliter.html" />
+        <option value="$PROJECT_DIR$/10. Unit Testing/01. Sub Sum.js" />
+        <option value="$PROJECT_DIR$/10. Unit Testing/tests/bla.js" />
+        <option value="$PROJECT_DIR$/10. Unit Testing/tests/07. Add-subtact.js" />
+        <option value="$PROJECT_DIR$/10. Unit Testing/tests/sumOfNums.js" />
+        <option value="$PROJECT_DIR$/10. Unit Testing/02. Playing Cards.js" />
+        <option value="$PROJECT_DIR$/10. Unit Testing/test/04. Sum of nums.js" />
+        <option value="$PROJECT_DIR$/10. Unit Testing/tests/04. Sum of nums.js" />
+        <option value="$PROJECT_DIR$/10. Unit Testing/tests/05. Check for Symmetry.js" />
+        <option value="$PROJECT_DIR$/10. Unit Testing/tests/07. Add and Subtract.js" />
+        <option value="$PROJECT_DIR$/Exam 18 March/02. Payment Package/payment-package.js" />
+        <option value="$PROJECT_DIR$/Exam 18 March/02. Payment Package/payment-package.html" />
+        <option value="$PROJECT_DIR$/11. Unit Testing Exercise/02. Even or Odd.js" />
+        <option value="$PROJECT_DIR$/11. Unit Testing Exercise/test/02. Even or Odd.js" />
+        <option value="$PROJECT_DIR$/11. Unit Testing Exercise/test/02. Odd or Even.js" />
       </list>
     </option>
   </component>
@@ -133,7 +119,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
+    <option name="x" value="-68" />
     <option name="width" value="1380" />
     <option name="height" value="735" />
   </component>
@@ -171,6 +157,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -178,23 +165,39 @@
               <item name="02. JavaScript-Advanced" type="b2602c69:ProjectViewProjectNode" />
               <item name="02. JavaScript-Advanced" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="02. JavaScript-Advanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="02. JavaScript-Advanced" type="462c0819:PsiDirectoryNode" />
+              <item name="11. Unit Testing Exercise" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="02. JavaScript-Advanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="02. JavaScript-Advanced" type="462c0819:PsiDirectoryNode" />
+              <item name="11. Unit Testing Exercise" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/11. Unit Testing Exercise/test" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="$USER_HOME$/AppData/Roaming/npm/node_modules/mocha" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Softuni\03. JS-Core\02. JavaScript-Advanced\11. Unit Testing Exercise\tests" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -208,26 +211,78 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.06. Sorted List.js">
-    <configuration name="05. Sum.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/02. JavaScript-Advanced/08. Object Composition/05. Sum.html" />
-    <configuration name="04. Object Inheritance.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="04. Object Inheritance.js" working-dir="$PROJECT_DIR$/08. Object Composition" />
-    <configuration name="05. String Extension.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="05. String Extension.js" working-dir="$PROJECT_DIR$/09. Object Composition Exercise" />
-    <configuration name="06. Breakfast Robot.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="06. Breakfast Robot.js" working-dir="$PROJECT_DIR$/07. Advanced Functions Exercise" />
+  <component name="RunManager" selected="Mocha.Test">
+    <configuration name="01. Sub Sum.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="01. Sub Sum.js" working-dir="$PROJECT_DIR$/10. Unit Testing" />
+    <configuration name="02. Even or Odd.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="$PROJECT_DIR$/11. Unit Testing Exercise/tests/02. Even or Odd.js" working-dir="$PROJECT_DIR$/11. Unit Testing Exercise/tests" />
+    <configuration name="02. Playing Cards.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="02. Playing Cards.js" working-dir="$PROJECT_DIR$/10. Unit Testing" />
     <configuration name="06. Sorted List.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="06. Sorted List.js" working-dir="$PROJECT_DIR$/09. Object Composition Exercise" />
-    <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.04. Object Inheritance.js" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.05. Sum.html" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.06. Breakfast Robot.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.05. String Extension.js" />
+    <configuration name="sumOfNums.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="sumOfNums.js" working-dir="$PROJECT_DIR$/10. Unit Testing/tests" />
+    <configuration name="RunTests" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$/11. Unit Testing Exercise/test</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+    </configuration>
+    <configuration name="Test" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$/11. Unit Testing Exercise/test</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory>$PROJECT_DIR$/11. Unit Testing Exercise/test</test-directory>
+      <recursive>false</recursive>
+    </configuration>
+    <configuration name="Tests" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$/11. Unit Testing Exercise/test</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+    </configuration>
+    <configuration name="UnitTests" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$/11. Unit Testing Exercise/test</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory>$PROJECT_DIR$/10. Unit Testing/tests</test-directory>
+      <recursive>false</recursive>
+    </configuration>
+    <list size="9">
+      <item index="0" class="java.lang.String" itemvalue="Mocha.RunTests" />
+      <item index="1" class="java.lang.String" itemvalue="Mocha.Tests" />
+      <item index="2" class="java.lang.String" itemvalue="Mocha.UnitTests" />
+      <item index="3" class="java.lang.String" itemvalue="Mocha.Test" />
       <item index="4" class="java.lang.String" itemvalue="Node.js.06. Sorted List.js" />
+      <item index="5" class="java.lang.String" itemvalue="Node.js.01. Sub Sum.js" />
+      <item index="6" class="java.lang.String" itemvalue="Node.js.sumOfNums.js" />
+      <item index="7" class="java.lang.String" itemvalue="Node.js.02. Playing Cards.js" />
+      <item index="8" class="java.lang.String" itemvalue="Node.js.02. Even or Odd.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.06. Sorted List.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.05. String Extension.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.06. Breakfast Robot.js" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.05. Sum.html" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.04. Object Inheritance.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.02. Even or Odd.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.02. Playing Cards.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.01. Sub Sum.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.sumOfNums.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.06. Sorted List.js" />
       </list>
     </recent_temporary>
   </component>
@@ -263,12 +318,53 @@
       <workItem from="1529843956163" duration="14650000" />
       <workItem from="1529942471214" duration="8909000" />
       <workItem from="1529989911348" duration="22000" />
-      <workItem from="1529995969024" duration="912000" />
+      <workItem from="1529995969024" duration="933000" />
+      <workItem from="1530002587370" duration="828000" />
+      <workItem from="1530031478855" duration="183000" />
+      <workItem from="1530032523843" duration="2038000" />
+      <workItem from="1530034597174" duration="2789000" />
+      <workItem from="1530195373164" duration="9146000" />
+      <workItem from="1530216145051" duration="987000" />
+      <workItem from="1530217256065" duration="1215000" />
+      <workItem from="1530218496404" duration="25000" />
+      <workItem from="1530222682869" duration="130000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="Test - 2018.06.29 at 00h 52m 44s.xml">
+      <configuration name="Test" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="UnitTests - 2018.06.28 at 23h 15m 55s.xml">
+      <configuration name="UnitTests" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="UnitTests - 2018.06.28 at 23h 16m 30s.xml">
+      <configuration name="UnitTests" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="UnitTests - 2018.06.28 at 23h 22m 58s.xml">
+      <configuration name="UnitTests" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="UnitTests - 2018.06.28 at 23h 24m 26s.xml">
+      <configuration name="UnitTests" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="UnitTests - 2018.06.28 at 23h 26m 00s.xml">
+      <configuration name="UnitTests" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="UnitTests - 2018.06.28 at 23h 36m 10s.xml">
+      <configuration name="UnitTests" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="UnitTests - 2018.06.28 at 23h 38m 26s.xml">
+      <configuration name="UnitTests" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="UnitTests - 2018.06.28 at 23h 40m 49s.xml">
+      <configuration name="UnitTests" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="UnitTests - 2018.06.29 at 00h 51m 25s.xml">
+      <configuration name="UnitTests" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="116133000" />
+    <option name="totallyTimeSpent" value="133495000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -278,10 +374,10 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32982457" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3017544" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32982457" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3263158" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -289,7 +385,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32982457" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -326,102 +422,11 @@
           <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="8" />
+      <option name="time" value="10" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/04. jQuery Library/02. Search in List.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="18" column="23" lean-forward="true" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03.DOM Manipulation Exercise/07. Distance Converter.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="36" column="41" lean-forward="false" selection-start-line="36" selection-start-column="27" selection-end-line="36" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04. jQuery Library/03. Countries Table.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04. jQuery Library/initialize-table.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="317">
-          <caret line="48" column="28" lean-forward="false" selection-start-line="48" selection-start-column="28" selection-end-line="48" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04. jQuery Library/link-buttons.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="39" lean-forward="true" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04. jQuery Library/04. Link Buttons.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04. jQuery Library/05. Selectable Towns.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="20" column="18" lean-forward="true" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04. jQuery Library/select-towns.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05. jQuery Library Exercise/01. Increment Counter/incrementCounter.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="6" lean-forward="true" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05. jQuery Library Exercise/01. Increment Counter/incrementCounter.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="32" lean-forward="true" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02. DOM Manipulation/04. Stopwatch.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="35" column="40" lean-forward="true" selection-start-line="35" selection-start-column="40" selection-end-line="35" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05. jQuery Library Exercise/02. Timer/timer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="17" column="47" lean-forward="true" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05. jQuery Library Exercise/02. Timer/timer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="28" column="26" lean-forward="false" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/05. jQuery Library Exercise/03. Book Generator/book-generator.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="385">
@@ -528,20 +533,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="5" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exam 18 March/02. Payment Package/payment-package.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="19" lean-forward="false" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exam 18 March/02. Payment Package/payment-package.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="470">
-          <caret line="57" column="25" lean-forward="false" selection-start-line="57" selection-start-column="25" selection-end-line="57" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -653,22 +644,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/03.DOM Manipulation Exercise/03. Accordion.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05. jQuery Library Exercise/03. Book Generator/book-generator.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="45" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="7" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/09. Object Composition Exercise/06. Sorted List.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -679,10 +654,103 @@
     <entry file="file://$PROJECT_DIR$/09. Object Composition Exercise/07. DOM Highliter.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
-          <caret line="36" column="35" lean-forward="false" selection-start-line="36" selection-start-column="35" selection-end-line="36" selection-end-column="35" />
-          <folding>
-            <element signature="n#style#0;n#head#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
+          <caret line="36" column="34" lean-forward="false" selection-start-line="36" selection-start-column="34" selection-end-line="36" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03.DOM Manipulation Exercise/03. Accordion.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05. jQuery Library Exercise/03. Book Generator/book-generator.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="45" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="7" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Roaming/npm/node_modules/mocha/lib/mocha.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="249" column="26" lean-forward="false" selection-start-line="249" selection-start-column="26" selection-end-line="249" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10. Unit Testing/tests/bla.js" />
+    <entry file="file://$PROJECT_DIR$/10. Unit Testing/tests/07. Add-subtact.js" />
+    <entry file="file://$PROJECT_DIR$/10. Unit Testing/tests/sumOfNums.js" />
+    <entry file="file://$PROJECT_DIR$/10. Unit Testing/01. Sub Sum.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04. jQuery Library/initialize-table.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-612">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04. jQuery Library/02. Search in List.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10. Unit Testing/tests/04. Sum of nums.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10. Unit Testing/02. Playing Cards.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="5" lean-forward="false" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10. Unit Testing/tests/05. Check for Symmetry.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="17" lean-forward="false" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam 18 March/02. Payment Package/payment-package.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="50" column="31" lean-forward="false" selection-start-line="50" selection-start-column="31" selection-end-line="50" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam 18 March/02. Payment Package/payment-package.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11. Unit Testing Exercise/tests/02. Even or Odd.js" />
+    <entry file="file://$PROJECT_DIR$/10. Unit Testing/tests/07. Add and Subtract.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="15" column="49" lean-forward="true" selection-start-line="15" selection-start-column="49" selection-end-line="15" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11. Unit Testing Exercise/test/02. Odd or Even.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="32" selection-end-column="3" />
+          <folding />
         </state>
       </provider>
     </entry>
