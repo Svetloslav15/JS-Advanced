@@ -6,6 +6,5 @@ function addProduct() {
     let body = $('#product-list');
     body.append(row);
     let sum = $("#sum");
-    let allSum = (Number(sum.text()) + Number(price)).toFixed(2);
-    sum.text(allSum);
+    sum.text((Number(sum.text()) + Number(price)).toFixed(2));
 }
