@@ -62,8 +62,7 @@ describe("Math Enforcer", function () {
         });
         it('should return undefined after text', function () {
             let result = enforcer.subtractTen("text");
-            expect(result).to.be.equal(undefined);
-        });
+            expect(result).to.be.equal(undefined);        });
     });
     describe("sum", function () {
         it('should return 13 after 6 + 8', function () {
