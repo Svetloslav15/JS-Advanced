@@ -1,15 +1,5 @@
 const expect = require("chai").expect;
-
-function lookupChar(string, index) {
-    if (typeof(string) !== 'string' || !Number.isInteger(index)) {
-        return undefined;
-    }
-    if (string.length <= index || index < 0) {
-        return "Incorrect index";
-    }
-
-    return string.charAt(index);
-}
+const lookupChar = require("../03. Char Lookup").lookupChar;
 
 describe("LookUpChar", function () {
     it('should return char at index 2', function () {

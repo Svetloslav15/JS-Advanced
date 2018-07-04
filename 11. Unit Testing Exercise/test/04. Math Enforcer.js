@@ -1,25 +1,5 @@
 const expect = require("chai").expect;
-
-let mathEnforcer = {
-    addFive: function (num) {
-        if (typeof(num) !== 'number') {
-            return undefined;
-        }
-        return num + 5;
-    },
-    subtractTen: function (num) {
-        if (typeof(num) !== 'number') {
-            return undefined;
-        }
-        return num - 10;
-    },
-    sum: function (num1, num2) {
-        if (typeof(num1) !== 'number' || typeof(num2) !== 'number') {
-            return undefined;
-        }
-        return num1 + num2;
-    }
-};
+const mathEnforcer = require("../04. Math Enforcer").mathEnforcer;
 
 let enforcer;
 beforeEach(function () {

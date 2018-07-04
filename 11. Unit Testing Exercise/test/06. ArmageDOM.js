@@ -1,11 +1,7 @@
 let expect = require('chai').expect;
 let jsdom = require('jsdom-global')();
 let $ = require('jquery');
-
-function nuke(selector1, selector2) {
-    if (selector1 === selector2) return;
-    $(selector1).filter(selector2).remove();
-}
+const nuke = require("../06. ArmageDOM").nuke;
 
 describe("function nuke", function () {
     beforeEach(() => {
@@ -39,8 +35,8 @@ describe("function nuke", function () {
         }
         nuke(".target", "span");
         expect($('.target').filter('span').length).to.be.equal(0);
-        expect($('span').length).to.equal(initialSpanLength - initialSpanTargetLength);
-        expect($('.target').length).to.equal(initialTargetLength - initialSpanTargetLength);
+        expect($('span').length).to.equal(0);
+        expect($('.target').length).to.equal(0);
     });
     it("should remove two divs for ('div', '.target')", function () {
         let initialTargetLength = $('.target').length;

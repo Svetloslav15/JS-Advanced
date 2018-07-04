@@ -1,15 +1,5 @@
 const expect = require("chai").expect;
-
-function isOddOrEven(string) {
-    if (typeof(string) !== 'string') {
-        return undefined;
-    }
-    if (string.length % 2 === 0) {
-        return "even";
-    }
-
-    return "odd";
-}
+const isOddOrEven = require("../02. Odd or Even").isOddOrEven;
 
 describe("EvenOrOdd", function () {
     describe("Even", function () {
