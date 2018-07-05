@@ -2,22 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b83ce06-0d26-4c6e-b3c5-fb59ea727091" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/11. Unit Testing Exercise/01. Request Validation.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/11. Unit Testing Exercise/02. Odd or Even.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/11. Unit Testing Exercise/03. Char Lookup.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/11. Unit Testing Exercise/04. Math Enforcer.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/11. Unit Testing Exercise/05. Shared Object.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/11. Unit Testing Exercise/06. ArmageDOM.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/11. Unit Testing Exercise/test/05. Shared Object.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Exam 18 March/03. Payment Processor/payment-processor.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Exam 23 July 2017/02. Sumator Class/02. Sumator Class.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Exam 23 July 2017/02. Sumator Class/test/sumator-class-test.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/15. Prototype Chain Exercise/01. Balloons.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/15. Prototype Chain Exercise/02. People.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/15. Prototype Chain Exercise/03. Posts.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/15. Prototype Chain Exercise/04. Elemelons.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/15. Prototype Chain Exercise/05. Console/console.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/15. Prototype Chain Exercise/05. Console/test/console-tests.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/15. Prototype Chain Exercise/06. Computer.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Exam 5 Sep 2017/02. String Builder/string-builder.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Exam 5 Sep 2017/02. String Builder/test/string-builder-test.js" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/11. Unit Testing Exercise/test/01. Request Validator.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/11. Unit Testing Exercise/test/02. Odd or Even.js" afterPath="$PROJECT_DIR$/11. Unit Testing Exercise/test/02. Odd or Even.js" />
-      <change beforePath="$PROJECT_DIR$/11. Unit Testing Exercise/test/03. Char Lookup.js" afterPath="$PROJECT_DIR$/11. Unit Testing Exercise/test/03. Char Lookup.js" />
-      <change beforePath="$PROJECT_DIR$/11. Unit Testing Exercise/test/04. Math Enforcer.js" afterPath="$PROJECT_DIR$/11. Unit Testing Exercise/test/04. Math Enforcer.js" />
-      <change beforePath="$PROJECT_DIR$/11. Unit Testing Exercise/test/06. ArmageDOM.js" afterPath="$PROJECT_DIR$/11. Unit Testing Exercise/test/06. ArmageDOM.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -31,21 +25,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="sumator-class-test.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Exam 23 July 2017/02. Sumator Class/test/sumator-class-test.js">
+      <file leaf-file-name="console.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/15. Prototype Chain Exercise/05. Console/console.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="109" selection-end-column="3" />
+            <state relative-caret-position="-136">
+              <caret line="4" column="5" lean-forward="true" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="02. Sumator Class.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exam 23 July 2017/02. Sumator Class/02. Sumator Class.js">
+      <file leaf-file-name="console-tests.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/15. Prototype Chain Exercise/05. Console/test/console-tests.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="298">
-              <caret line="25" column="25" lean-forward="false" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
+            <state relative-caret-position="51">
+              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="37" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="06. Computer.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/15. Prototype Chain Exercise/06. Computer.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="77">
+              <caret line="40" column="17" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="85" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -68,15 +72,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/10. Unit Testing/tests/05. Check for Symmetry.js" />
-        <option value="$PROJECT_DIR$/Exam 18 March/02. Payment Package/payment-package.html" />
-        <option value="$PROJECT_DIR$/11. Unit Testing Exercise/02. Even or Odd.js" />
-        <option value="$PROJECT_DIR$/11. Unit Testing Exercise/test/02. Even or Odd.js" />
-        <option value="$PROJECT_DIR$/11. Unit Testing Exercise/test/05. Shared Object/shared-object.html" />
-        <option value="$PROJECT_DIR$/12. JS Classes/06. Cards.js" />
-        <option value="$PROJECT_DIR$/12. JS Classes/01. Rectangle Class.js" />
-        <option value="$PROJECT_DIR$/12. JS Classes/02. Person Class.js" />
-        <option value="$PROJECT_DIR$/12. JS Classes/03. Get Persons.js" />
         <option value="$PROJECT_DIR$/12. JS Classes/04. Circle.js" />
         <option value="$PROJECT_DIR$/12. JS Classes/05. Point Distance.js" />
         <option value="$PROJECT_DIR$/13. Classes and Members Exercise/01. Data Class.js" />
@@ -119,6 +114,15 @@
         <option value="$PROJECT_DIR$/Exam 18 March/03. Payment Processor/payment-processor.js" />
         <option value="$PROJECT_DIR$/Exam 23 July 2017/02. Sumator Class/02. Sumator Class.js" />
         <option value="$PROJECT_DIR$/Exam 23 July 2017/02. Sumator Class/test/sumator-class-test.js" />
+        <option value="$PROJECT_DIR$/Exam 5 Sep 2017/02. String Builder/string-builder.js" />
+        <option value="$PROJECT_DIR$/Exam 5 Sep 2017/02. String Builder/test/string-builder-test.js" />
+        <option value="$PROJECT_DIR$/15. Prototype Chain Exercise/01. Balloons.js" />
+        <option value="$PROJECT_DIR$/15. Prototype Chain Exercise/02. People.js" />
+        <option value="$PROJECT_DIR$/15. Prototype Chain Exercise/03. Posts.js" />
+        <option value="$PROJECT_DIR$/15. Prototype Chain Exercise/04. Elemelons.js" />
+        <option value="$PROJECT_DIR$/15. Prototype Chain Exercise/05. Console/console.js" />
+        <option value="$PROJECT_DIR$/15. Prototype Chain Exercise/05. Console/test/console-tests.js" />
+        <option value="$PROJECT_DIR$/15. Prototype Chain Exercise/06. Computer.js" />
       </list>
     </option>
   </component>
@@ -176,6 +180,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -186,27 +192,12 @@
             <path>
               <item name="02. JavaScript-Advanced" type="b2602c69:ProjectViewProjectNode" />
               <item name="02. JavaScript-Advanced" type="462c0819:PsiDirectoryNode" />
-              <item name="Exam 23 July 2017" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="02. JavaScript-Advanced" type="b2602c69:ProjectViewProjectNode" />
-              <item name="02. JavaScript-Advanced" type="462c0819:PsiDirectoryNode" />
-              <item name="Exam 23 July 2017" type="462c0819:PsiDirectoryNode" />
-              <item name="02. Sumator Class" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="02. JavaScript-Advanced" type="b2602c69:ProjectViewProjectNode" />
-              <item name="02. JavaScript-Advanced" type="462c0819:PsiDirectoryNode" />
-              <item name="Exam 23 July 2017" type="462c0819:PsiDirectoryNode" />
-              <item name="02. Sumator Class" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="15. Prototype Chain Exercise" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -214,7 +205,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Exam 23 July 2017/02. Sumator Class" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/15. Prototype Chain Exercise/05. Console" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
@@ -240,10 +231,10 @@
     </option>
   </component>
   <component name="RunManager" selected="Mocha.Test">
-    <configuration name="02. Inheriting toString.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="02. Inheriting toString.js" working-dir="$PROJECT_DIR$/14. Prototype Chain" />
-    <configuration name="04. Class Hierarchy.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="04. Class Hierarchy.js" working-dir="$PROJECT_DIR$/14. Prototype Chain" />
+    <configuration name="02. People.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="02. People.js" working-dir="$PROJECT_DIR$/15. Prototype Chain Exercise" />
+    <configuration name="03. Posts.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="03. Posts.js" working-dir="$PROJECT_DIR$/15. Prototype Chain Exercise" />
     <configuration name="payment-package.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="$PROJECT_DIR$/Exam 18 March/02. Payment Package/02. Payment Package.js" working-dir="$PROJECT_DIR$/Exam 18 March/02. Payment Package" />
-    <configuration name="Shared Object Tests.Initial value test.should return null" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
+    <configuration name="Console writeline tests.should return nothing" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
       <node-interpreter>project</node-interpreter>
       <node-options />
       <working-directory>$PROJECT_DIR$</working-directory>
@@ -252,69 +243,37 @@
       <ui>bdd</ui>
       <extra-mocha-options />
       <test-kind>TEST</test-kind>
-      <test-file>$PROJECT_DIR$/11. Unit Testing Exercise/test/05. Shared Object.js</test-file>
+      <test-file>$PROJECT_DIR$/15. Prototype Chain Exercise/05. Console/test/console-tests.js</test-file>
       <test-names>
-        <name value="Shared Object Tests" />
-        <name value="Initial value test" />
-        <name value="should return null" />
-      </test-names>
-    </configuration>
-    <configuration name="Sumator Class Tests.toString Tests.should return text, 5, {name: Stamat}, [&quot;input&quot;, -6.3]" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <working-directory>$PROJECT_DIR$</working-directory>
-      <pass-parent-env>true</pass-parent-env>
-      <envs />
-      <ui>bdd</ui>
-      <extra-mocha-options />
-      <test-kind>TEST</test-kind>
-      <test-file>$PROJECT_DIR$/Exam 23 July 2017/02. Sumator Class/test/sumator-class-test.js</test-file>
-      <test-names>
-        <name value="Sumator Class Tests" />
-        <name value="toString Tests" />
-        <name value="should return text, 5, {name: Stamat}, [&quot;input&quot;, -6.3]" />
+        <name value="Console writeline tests" />
+        <name value="should return nothing" />
       </test-names>
     </configuration>
     <configuration name="Test" type="mocha-javascript-test-runner" factoryName="Mocha">
       <node-interpreter>project</node-interpreter>
       <node-options />
-      <working-directory>$PROJECT_DIR$/Exam 23 July 2017/02. Sumator Class</working-directory>
+      <working-directory>$PROJECT_DIR$/15. Prototype Chain Exercise/05. Console</working-directory>
       <pass-parent-env>true</pass-parent-env>
       <envs />
       <ui>bdd</ui>
       <extra-mocha-options />
       <test-kind>DIRECTORY</test-kind>
-      <test-directory>$PROJECT_DIR$/Exam 23 July 2017/02. Sumator Class/test</test-directory>
+      <test-directory>$PROJECT_DIR$/15. Prototype Chain Exercise/05. Console/test</test-directory>
       <recursive>false</recursive>
     </configuration>
-    <configuration name="Tests" type="mocha-javascript-test-runner" factoryName="Mocha">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <working-directory>$PROJECT_DIR$/11. Unit Testing Exercise/test</working-directory>
-      <pass-parent-env>true</pass-parent-env>
-      <envs />
-      <ui>bdd</ui>
-      <extra-mocha-options />
-      <test-kind>DIRECTORY</test-kind>
-      <test-directory>$PROJECT_DIR$/11. Unit Testing Exercise/test</test-directory>
-      <recursive>false</recursive>
-    </configuration>
-    <list size="7">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Mocha.Test" />
-      <item index="1" class="java.lang.String" itemvalue="Mocha.Tests" />
-      <item index="2" class="java.lang.String" itemvalue="Mocha.Shared Object Tests.Initial value test.should return null" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.02. Inheriting toString.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.04. Class Hierarchy.js" />
-      <item index="5" class="java.lang.String" itemvalue="Node.js.payment-package.js" />
-      <item index="6" class="java.lang.String" itemvalue="Mocha.Sumator Class Tests.toString Tests.should return text, 5, {name: Stamat}, [&quot;input&quot;, -6.3]" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.payment-package.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.02. People.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.03. Posts.js" />
+      <item index="4" class="java.lang.String" itemvalue="Mocha.Console writeline tests.should return nothing" />
     </list>
     <recent_temporary>
-      <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Mocha.Sumator Class Tests.toString Tests.should return text, 5, {name: Stamat}, [&quot;input&quot;, -6.3]" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.payment-package.js" />
-        <item index="2" class="java.lang.String" itemvalue="Mocha.Shared Object Tests.Initial value test.should return null" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.04. Class Hierarchy.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.02. Inheriting toString.js" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Mocha.Console writeline tests.should return nothing" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.03. Posts.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.02. People.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.payment-package.js" />
       </list>
     </recent_temporary>
   </component>
@@ -369,44 +328,46 @@
       <workItem from="1530630135861" duration="4510000" />
       <workItem from="1530686240835" duration="3542000" />
       <workItem from="1530706738621" duration="9526000" />
-      <workItem from="1530727343852" duration="4153000" />
+      <workItem from="1530727343852" duration="4900000" />
+      <workItem from="1530771621723" duration="2135000" />
+      <workItem from="1530782841769" duration="10654000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Test - 2018.07.04 at 21h 56m 32s.xml">
+    <history-entry file="Test - 2018.07.05 at 15h 52m 49s.xml">
       <configuration name="Test" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Test - 2018.07.04 at 21h 57m 39s.xml">
+    <history-entry file="Test - 2018.07.05 at 15h 53m 36s.xml">
       <configuration name="Test" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Test - 2018.07.04 at 22h 04m 24s.xml">
+    <history-entry file="Test - 2018.07.05 at 15h 55m 29s.xml">
       <configuration name="Test" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Test - 2018.07.04 at 22h 04m 47s.xml">
+    <history-entry file="Test - 2018.07.05 at 15h 58m 12s.xml">
       <configuration name="Test" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Test - 2018.07.04 at 22h 04m 57s.xml">
+    <history-entry file="Test - 2018.07.05 at 15h 59m 50s.xml">
       <configuration name="Test" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Test - 2018.07.04 at 22h 06m 26s.xml">
+    <history-entry file="Test - 2018.07.05 at 16h 00m 14s.xml">
       <configuration name="Test" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Test - 2018.07.04 at 22h 10m 32s.xml">
+    <history-entry file="Test - 2018.07.05 at 16h 00m 31s.xml">
       <configuration name="Test" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Test - 2018.07.04 at 22h 10m 50s.xml">
+    <history-entry file="Test - 2018.07.05 at 16h 04m 05s.xml">
       <configuration name="Test" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Test - 2018.07.04 at 22h 11m 26s.xml">
+    <history-entry file="Test - 2018.07.05 at 16h 05m 11s.xml">
       <configuration name="Test" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Test - 2018.07.04 at 22h 11m 33s.xml">
+    <history-entry file="Test - 2018.07.05 at 16h 08m 24s.xml">
       <configuration name="Test" configurationId="mocha-javascript-test-runner" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="189655000" />
+    <option name="totallyTimeSpent" value="203191000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -416,12 +377,12 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3017544" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3017544" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32982457" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3263158" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -498,65 +459,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/04. jQuery Library/02. Search in List.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10. Unit Testing/tests/04. Sum of nums.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10. Unit Testing/02. Playing Cards.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="5" lean-forward="false" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10. Unit Testing/tests/05. Check for Symmetry.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="17" lean-forward="false" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/11. Unit Testing Exercise/tests/02. Even or Odd.js" />
-    <entry file="file://$PROJECT_DIR$/12. JS Classes/01. Rectangle Class.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/12. JS Classes/02. Person Class.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="1" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/12. JS Classes/06. Cards.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/12. JS Classes/03. Get Persons.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="25" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/12. JS Classes/04. Circle.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -665,19 +567,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/14. Prototype Chain/02. Inheriting toString.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="19" column="64" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="34" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/14. Prototype Chain/01. Person and Teacher.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
           <caret line="14" column="1" lean-forward="false" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -693,7 +586,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="203">
           <caret line="26" column="20" lean-forward="true" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -749,7 +641,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="9" lean-forward="false" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -757,7 +648,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
           <caret line="7" column="9" lean-forward="false" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -779,17 +669,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="298">
           <caret line="150" column="3" lean-forward="false" selection-start-line="150" selection-start-column="3" selection-end-line="150" selection-end-column="3" />
-          <folding>
-            <marker date="1530712524158" expanded="true" signature="220:309" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exam 18 March/02. Payment Package/test/test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1513">
-          <caret line="89" column="9" lean-forward="false" selection-start-line="88" selection-start-column="41" selection-end-line="89" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -797,30 +676,116 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam 23 July 2017/02. Sumator Class/02. Sumator Class.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="25" column="25" lean-forward="false" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam 23 July 2017/02. Sumator Class/test/sumator-class-test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="18" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="109" selection-end-column="3" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Exam 18 March/02. Payment Package/02. Payment Package.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="470">
+        <state relative-caret-position="321">
           <caret line="61" column="33" lean-forward="false" selection-start-line="61" selection-start-column="33" selection-end-line="61" selection-end-column="33" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exam 23 July 2017/02. Sumator Class/02. Sumator Class.js">
+    <entry file="file://$PROJECT_DIR$/Exam 18 March/02. Payment Package/test/test.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="25" column="25" lean-forward="false" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
+        <state relative-caret-position="321">
+          <caret line="89" column="9" lean-forward="false" selection-start-line="88" selection-start-column="41" selection-end-line="89" selection-end-column="9" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exam 23 July 2017/02. Sumator Class/test/sumator-class-test.js">
+    <entry file="file://$PROJECT_DIR$/Exam 5 Sep 2017/02. String Builder/string-builder.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="25" column="32" lean-forward="true" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam 5 Sep 2017/02. String Builder/test/string-builder-test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="17" lean-forward="false" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/14. Prototype Chain/02. Inheriting toString.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="19" column="64" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="34" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15. Prototype Chain Exercise/01. Balloons.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="32" column="50" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="33" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15. Prototype Chain Exercise/02. People.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="109" selection-end-column="3" />
+          <caret line="42" column="49" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15. Prototype Chain Exercise/03. Posts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="30" column="34" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15. Prototype Chain Exercise/04. Elemelons.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="89" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15. Prototype Chain Exercise/05. Console/console.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-136">
+          <caret line="4" column="5" lean-forward="true" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15. Prototype Chain Exercise/05. Console/test/console-tests.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="37" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15. Prototype Chain Exercise/06. Computer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="40" column="17" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="85" selection-end-column="1" />
           <folding />
         </state>
       </provider>
