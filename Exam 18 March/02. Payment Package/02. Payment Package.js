@@ -59,4 +59,4 @@ class PaymentPackage {
         return output.join('\n');
     }
 }
-module.exports = {PaymentPackage}
+module.exports = PaymentPackage;
