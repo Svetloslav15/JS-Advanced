@@ -14,7 +14,7 @@ class Dialog{
         });
     }
 
-    render() {
+    render(){
         this.element = $('<div class="overlay">');
         let innerDiv = $('<div class="dialog">');
         innerDiv.append(`<p>${this.message}</p>`);
@@ -28,15 +28,15 @@ class Dialog{
         $('body').append(this.element);
     }
 
-    _cancel(){
-        $(this.element).remove();
-    }
-
     _ok(){
         let obj = {};
         let inputs = $(this.element).find('input').toArray();
         inputs.forEach(i => obj[$(i).attr('name')] = $(i).val());
         this.callBack(obj);
-        this._cancel()
+        this._cancel();
+    }
+
+    _cancel(){
+        this.element.remove();
     }
 }
