@@ -2,23 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b83ce06-0d26-4c6e-b3c5-fb59ea727091" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Exam - 13 Nov 2016/01. Add Remove Towns/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Exam - 13 Nov 2016/02. Add  Swap  Shift Left  Right in List/program.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Exam - 13 Nov 2016/02. Add  Swap  Shift Left  Right in List/test/test.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Exam - 13 Nov 2016/03. Mail Box/main-box.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Exam - 13 Nov 2016/04. Cards.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Exam 18 March/04. Payment Manager/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Exam 18 March/04. Payment Manager/solution.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Sample Exam - 7 Nov 2016/01. Delete Towns By Name/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Sample Exam - 7 Nov 2016/02. Add Delete in List/list.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Sample Exam - 7 Nov 2016/02. Add Delete in List/test/test.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Sample Exam - 7 Nov 2016/03. Training Course/training-course.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Sample Exam - 7 Nov 2016/04. Table Builder/table-builder.html" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Exam - 19 Dec 2016/01. Move Towns/index.html" afterPath="$PROJECT_DIR$/Exam - 19 Dec 2016/01. Move Towns/index.html" />
-      <change beforePath="$PROJECT_DIR$/Exam - 19 Dec 2016/03. Player/player.js" afterPath="$PROJECT_DIR$/Exam - 19 Dec 2016/03. Player/player.js" />
-      <change beforePath="$PROJECT_DIR$/Exam - 19 Dec 2016/04. List Builder/index.html" afterPath="$PROJECT_DIR$/Exam - 19 Dec 2016/04. List Builder/index.html" />
-      <change beforePath="$PROJECT_DIR$/Exam 18 March/.idea/workspace.xml" afterPath="$PROJECT_DIR$/Exam 18 March/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Exam 18 March/03. Payment Processor/payment-processor.js" afterPath="$PROJECT_DIR$/Exam 18 March/03. Payment Processor/payment-processor.js" />
-      <change beforePath="$PROJECT_DIR$/Exam 5 Sep 2017/02. String Builder/test/string-builder-test.js" afterPath="$PROJECT_DIR$/Exam 5 Sep 2017/02. String Builder/test/string-builder-test.js" />
-      <change beforePath="$PROJECT_DIR$/Exam 5 Sep 2017/03. Repository/repository.js" afterPath="$PROJECT_DIR$/Exam 5 Sep 2017/03. Repository/repository.js" />
-      <change beforePath="$PROJECT_DIR$/Exam 5 Sep 2017/04. Dialog/solution.js" afterPath="$PROJECT_DIR$/Exam 5 Sep 2017/04. Dialog/solution.js" />
-      <change beforePath="$PROJECT_DIR$/Retake Exam 26 April/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Exam 18 March/04. Payment Manager/solution.js" afterPath="$PROJECT_DIR$/Exam 18 March/04. Payment Manager/solution.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -31,39 +21,46 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="solution.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Retake Exam 26 April/04. Public Transport/solution.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="20" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
-              <folding>
-                <marker date="1531245667316" expanded="true" signature="1204:1634" ph="..." />
-                <marker date="1531245667316" expanded="true" signature="1249:1601" ph="..." />
-                <marker date="1531245667316" expanded="true" signature="1289:1567" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="line-manager.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Retake Exam 26 April/03. Line Manager/line-manager.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1054">
-              <caret line="62" column="1" lean-forward="true" selection-start-line="62" selection-start-column="1" selection-end-line="62" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.3923193">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/Exam 18 March/04. Payment Manager/index.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="153">
+                  <caret line="18" column="8" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="solution.js" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/Exam 18 March/04. Payment Manager/solution.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="266">
+                  <caret line="35" column="90" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="61" selection-end-column="1" />
+                  <folding>
+                    <marker date="1531425885443" expanded="true" signature="267:603" ph="..." />
+                    <marker date="1531425885443" expanded="true" signature="300:570" ph="..." />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -73,11 +70,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/11. Unit Testing Exercise/05. Shared Object.js" />
-        <option value="$PROJECT_DIR$/11. Unit Testing Exercise/test/06. ArmageDOM.js" />
-        <option value="$PROJECT_DIR$/11. Unit Testing Exercise/test/05. Shared Object.js" />
-        <option value="$PROJECT_DIR$/Exam 18 March/02. Payment Package/payment-package.js" />
-        <option value="$PROJECT_DIR$/Exam 18 March/02. Payment Package/test.js" />
         <option value="$PROJECT_DIR$/Exam 23 July 2017/02. Sumator Class/02. Sumator Class.js" />
         <option value="$PROJECT_DIR$/Exam 23 July 2017/02. Sumator Class/test/sumator-class-test.js" />
         <option value="$PROJECT_DIR$/Exam 5 Sep 2017/02. String Builder/string-builder.js" />
@@ -118,12 +110,17 @@
         <option value="$PROJECT_DIR$/Retake Exam 26 April/04. Public Transport/publicTransport.js" />
         <option value="$PROJECT_DIR$/Exam 18 March/04. Payment Manager/payment-manager.js" />
         <option value="$PROJECT_DIR$/Exam 18 March/04. Payment Manager/index.html" />
-        <option value="$PROJECT_DIR$/Exam 18 March/04. Payment Manager/solution.js" />
         <option value="$PROJECT_DIR$/Exam 5 Sep 2017/04. Dialog/solution.js" />
         <option value="$PROJECT_DIR$/Retake Exam 26 April/01. Bus Route/index.html" />
+        <option value="$PROJECT_DIR$/Retake Exam 26 April/03. Line Manager/line-manager.js" />
         <option value="$PROJECT_DIR$/Retake Exam 26 April/02. Subscription Card/test/test-card.js" />
         <option value="$PROJECT_DIR$/Retake Exam 26 April/04. Public Transport/solution.js" />
-        <option value="$PROJECT_DIR$/Retake Exam 26 April/03. Line Manager/line-manager.js" />
+        <option value="$PROJECT_DIR$/Sample Exam - 7 Nov 2016/01. Delete Towns By Name/index.html" />
+        <option value="$PROJECT_DIR$/Sample Exam - 7 Nov 2016/02. Add Delete in List/list.js" />
+        <option value="$PROJECT_DIR$/Sample Exam - 7 Nov 2016/02. Add Delete in List/test/test.js" />
+        <option value="$PROJECT_DIR$/Sample Exam - 7 Nov 2016/03. Training Course/training-course.js" />
+        <option value="$PROJECT_DIR$/Sample Exam - 7 Nov 2016/04. Table Builder/table-builder.html" />
+        <option value="$PROJECT_DIR$/Exam 18 March/04. Payment Manager/solution.js" />
       </list>
     </option>
   </component>
@@ -142,9 +139,8 @@
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-7" />
-    <option name="width" value="1380" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="1366" />
     <option name="height" value="735" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -181,8 +177,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -193,12 +187,20 @@
             <path>
               <item name="02. JavaScript-Advanced" type="b2602c69:ProjectViewProjectNode" />
               <item name="02. JavaScript-Advanced" type="462c0819:PsiDirectoryNode" />
-              <item name="Retake Exam 26 April" type="462c0819:PsiDirectoryNode" />
+              <item name="Exam 18 March" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="02. JavaScript-Advanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="02. JavaScript-Advanced" type="462c0819:PsiDirectoryNode" />
+              <item name="Exam 18 March" type="462c0819:PsiDirectoryNode" />
+              <item name="04. Payment Manager" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -206,12 +208,13 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Retake Exam 26 April/03. Line Manager" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Sample Exam - 7 Nov 2016/02. Add Delete in List/test" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs.mocha.mocha_node_package_dir" value="$USER_HOME$/AppData/Roaming/npm/node_modules/mocha" />
     <property name="nodejs_interpreter_path" value="node" />
+    <property name="jsx.switch.disabled" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -234,25 +237,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Mocha.Test">
+  <component name="RunManager" selected="Node.js.training-course.js">
     <configuration name="demo.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="demo.js" working-dir="$PROJECT_DIR$/Exam - 13 Nov 2016/02. Add  Swap  Shift Left  Right in List" />
     <configuration name="line-manager.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="line-manager.js" working-dir="$PROJECT_DIR$/Retake Exam 26 April/03. Line Manager" />
     <configuration name="player.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="player.js" working-dir="$PROJECT_DIR$/Exam - 19 Dec 2016/03. Player" />
-    <configuration name="Console writeline tests.should return nothing" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <working-directory>$PROJECT_DIR$</working-directory>
-      <pass-parent-env>true</pass-parent-env>
-      <envs />
-      <ui>bdd</ui>
-      <extra-mocha-options />
-      <test-kind>TEST</test-kind>
-      <test-file>$PROJECT_DIR$/15. Prototype Chain Exercise/05. Console/test/console-tests.js</test-file>
-      <test-names>
-        <name value="Console writeline tests" />
-        <name value="should return nothing" />
-      </test-names>
-    </configuration>
+    <configuration name="training-course.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="training-course.js" working-dir="$PROJECT_DIR$/Sample Exam - 7 Nov 2016/03. Training Course" />
     <configuration name="Payment Package Unit Tests.Constructor tests.should have properties" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
       <node-interpreter>project</node-interpreter>
       <node-options />
@@ -272,30 +261,30 @@
     <configuration name="Test" type="mocha-javascript-test-runner" factoryName="Mocha">
       <node-interpreter>project</node-interpreter>
       <node-options />
-      <working-directory>$PROJECT_DIR$/Retake Exam 26 April/03. Line Manager</working-directory>
+      <working-directory>$PROJECT_DIR$/Sample Exam - 7 Nov 2016/02. Add Delete in List</working-directory>
       <pass-parent-env>true</pass-parent-env>
       <envs />
       <ui>bdd</ui>
       <extra-mocha-options />
       <test-kind>DIRECTORY</test-kind>
-      <test-directory>$PROJECT_DIR$/Retake Exam 26 April/03. Line Manager</test-directory>
+      <test-directory>$PROJECT_DIR$/Sample Exam - 7 Nov 2016/02. Add Delete in List/test</test-directory>
       <recursive>false</recursive>
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Mocha.Test" />
-      <item index="1" class="java.lang.String" itemvalue="Mocha.Console writeline tests.should return nothing" />
-      <item index="2" class="java.lang.String" itemvalue="Mocha.Payment Package Unit Tests.Constructor tests.should have properties" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.player.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.demo.js" />
-      <item index="5" class="java.lang.String" itemvalue="Node.js.line-manager.js" />
+      <item index="1" class="java.lang.String" itemvalue="Mocha.Payment Package Unit Tests.Constructor tests.should have properties" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.player.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.demo.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.line-manager.js" />
+      <item index="5" class="java.lang.String" itemvalue="Node.js.training-course.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.line-manager.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.demo.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.player.js" />
-        <item index="3" class="java.lang.String" itemvalue="Mocha.Payment Package Unit Tests.Constructor tests.should have properties" />
-        <item index="4" class="java.lang.String" itemvalue="Mocha.Console writeline tests.should return nothing" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.training-course.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.line-manager.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.demo.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.player.js" />
+        <item index="4" class="java.lang.String" itemvalue="Mocha.Payment Package Unit Tests.Constructor tests.should have properties" />
       </list>
     </recent_temporary>
   </component>
@@ -360,58 +349,62 @@
       <workItem from="1531065817313" duration="6813000" />
       <workItem from="1531122700125" duration="1115000" />
       <workItem from="1531132533703" duration="14796000" />
-      <workItem from="1531206408109" duration="24419000" />
+      <workItem from="1531206408109" duration="25012000" />
+      <workItem from="1531291613566" duration="11448000" />
+      <workItem from="1531392049893" duration="15031000" />
+      <workItem from="1531411192185" duration="445000" />
+      <workItem from="1531423139499" duration="2964000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Test - 2018.07.10 at 19h 05m 39s.xml">
+    <history-entry file="Test - 2018.07.12 at 15h 27m 17s.xml">
       <configuration name="Test" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Test - 2018.07.10 at 19h 05m 53s.xml">
+    <history-entry file="Test - 2018.07.12 at 15h 27m 41s.xml">
       <configuration name="Test" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Test - 2018.07.10 at 19h 06m 17s.xml">
+    <history-entry file="Test - 2018.07.12 at 15h 32m 07s.xml">
       <configuration name="Test" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Test - 2018.07.10 at 19h 06m 56s.xml">
+    <history-entry file="Test - 2018.07.12 at 15h 33m 17s.xml">
       <configuration name="Test" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Test - 2018.07.10 at 19h 07m 53s.xml">
+    <history-entry file="Test - 2018.07.12 at 15h 33m 23s.xml">
       <configuration name="Test" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Test - 2018.07.10 at 19h 09m 55s.xml">
+    <history-entry file="Test - 2018.07.12 at 15h 36m 11s.xml">
       <configuration name="Test" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Test - 2018.07.10 at 19h 12m 03s.xml">
+    <history-entry file="Test - 2018.07.12 at 15h 37m 36s.xml">
       <configuration name="Test" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Test - 2018.07.10 at 19h 13m 39s.xml">
+    <history-entry file="Test - 2018.07.12 at 15h 37m 42s.xml">
       <configuration name="Test" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Test - 2018.07.10 at 21h 37m 52s.xml">
+    <history-entry file="Test - 2018.07.12 at 15h 38m 21s.xml">
       <configuration name="Test" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Test - 2018.07.10 at 21h 38m 01s.xml">
+    <history-entry file="Test - 2018.07.12 at 15h 39m 17s.xml">
       <configuration name="Test" configurationId="mocha-javascript-test-runner" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="277402000" />
+    <option name="totallyTimeSpent" value="307883000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="1380" height="735" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2757079" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2756024" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30659536" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30659536" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32982457" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3263158" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3262032" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -428,16 +421,16 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3017544" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30659536" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32982457" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2752976" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2756024" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32982457" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3263158" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3262032" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -488,41 +481,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/11. Unit Testing Exercise/test/06. ArmageDOM.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="9" lean-forward="false" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/11. Unit Testing Exercise/test/03. Char Lookup.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="9" lean-forward="false" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/11. Unit Testing Exercise/test/04. Math Enforcer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="7" column="9" lean-forward="false" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/11. Unit Testing Exercise/test/02. Odd or Even.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="9" lean-forward="false" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/11. Unit Testing Exercise/05. Shared Object.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-170">
-          <caret line="8" column="22" lean-forward="false" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/11. Unit Testing Exercise/test/05. Shared Object.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="298">
@@ -677,7 +635,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
           <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -685,7 +642,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="595">
           <caret line="35" column="5" lean-forward="false" selection-start-line="27" selection-start-column="4" selection-end-line="35" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -693,7 +649,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="4" lean-forward="false" selection-start-line="11" selection-start-column="4" selection-end-line="32" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -701,18 +656,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="453">
           <caret line="37" column="12" lean-forward="true" selection-start-line="37" selection-start-column="12" selection-end-line="37" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="1" lean-forward="false" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/demo.js" />
     <entry file="file://$PROJECT_DIR$/Exam - 13 Nov 2016/02. Add  Swap  Shift Left  Right in List/program.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="303">
@@ -724,7 +671,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
           <caret line="38" column="1" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="38" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -732,25 +678,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="35" column="5" lean-forward="true" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
-          <folding>
-            <marker date="1531142591053" expanded="true" signature="804:1125" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exam 18 March/04. Payment Manager/solution.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="42" column="24" lean-forward="false" selection-start-line="42" selection-start-column="24" selection-end-line="42" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exam 18 March/04. Payment Manager/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -758,7 +685,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="283">
           <caret line="22" column="35" lean-forward="false" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -766,7 +692,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="101" column="27" lean-forward="true" selection-start-line="101" selection-start-column="27" selection-end-line="101" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -774,7 +699,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="884">
           <caret line="52" column="45" lean-forward="false" selection-start-line="52" selection-start-column="45" selection-end-line="52" selection-end-column="45" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -782,7 +706,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1315">
           <caret line="8" column="42" lean-forward="false" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -790,7 +713,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2618">
           <caret line="154" column="3" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="154" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -798,7 +720,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1020">
           <caret line="60" column="1" lean-forward="true" selection-start-line="60" selection-start-column="1" selection-end-line="60" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -806,7 +727,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="29" column="10" lean-forward="false" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -814,44 +734,87 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="21" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Retake Exam 26 April/02. Subscription Card/test/test-card.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="33" lean-forward="false" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Retake Exam 26 April/04. Public Transport/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="19" column="24" lean-forward="false" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
-          <folding>
-            <element signature="n#style#0;n#head#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Retake Exam 26 April/03. Line Manager/line-manager.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1054">
-          <caret line="62" column="1" lean-forward="true" selection-start-line="62" selection-start-column="1" selection-end-line="62" selection-end-column="1" />
-          <folding />
+          <caret line="62" column="1" lean-forward="false" selection-start-line="62" selection-start-column="1" selection-end-line="62" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Retake Exam 26 April/02. Subscription Card/test/test-card.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Retake Exam 26 April/04. Public Transport/solution.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="20" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+        <state relative-caret-position="391">
+          <caret line="71" column="5" lean-forward="true" selection-start-line="71" selection-start-column="5" selection-end-line="71" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Retake Exam 26 April/04. Public Transport/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="17" column="11" lean-forward="false" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sample Exam - 7 Nov 2016/01. Delete Towns By Name/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="478">
+          <caret line="37" column="5" lean-forward="true" selection-start-line="20" selection-start-column="4" selection-end-line="37" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sample Exam - 7 Nov 2016/02. Add Delete in List/test/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sample Exam - 7 Nov 2016/03. Training Course/training-course.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="28" column="19" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sample Exam - 7 Nov 2016/04. Table Builder/table-builder.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="4" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="43" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sample Exam - 7 Nov 2016/02. Add Delete in List/list.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="22" lean-forward="false" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam 18 March/04. Payment Manager/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="18" column="8" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam 18 March/04. Payment Manager/solution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="35" column="90" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="61" selection-end-column="1" />
           <folding>
-            <marker date="1531245667316" expanded="true" signature="1204:1634" ph="..." />
-            <marker date="1531245667316" expanded="true" signature="1249:1601" ph="..." />
-            <marker date="1531245667316" expanded="true" signature="1289:1567" ph="..." />
+            <marker date="1531425885443" expanded="true" signature="267:603" ph="..." />
+            <marker date="1531425885443" expanded="true" signature="300:570" ph="..." />
           </folding>
         </state>
       </provider>

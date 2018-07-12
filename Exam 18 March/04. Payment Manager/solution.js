@@ -17,36 +17,38 @@ class PaymentManager {
         let tbody = $('<tbody class="payments">');
 
         let tfoot = $('<tfoot class="input-data">');
-        let tfootRow = $('<tr>');
-        let nameTd = $('<td><input name="name" type="text"></td>');
-        let categoryTd = $('<td><input name="category" type="text"></td>');
-        let priceTd = $('<td><input name="price" type="number"></td>`');
-        let addBtn = $('<button>Add</button>').on("click", function () {
+        let footTr = $('<tr>');
+        let nameTd = $(`<td><input name="name" type="text"></td>`);
+        let catTd = $(`<td><input name="category" type="text"></td>`);
+        let prTd = $(`<td><input name="price" type="number"></td>`);
+        footTr.append(nameTd);
+        footTr.append(catTd);
+        footTr.append(prTd);
+        let addButton = $('<button>Add</button>');
+        addButton.on("click", function () {
+            let currentRow = $('<tr>');
             let name = $(nameTd.children()[0]);
-            let category = $(categoryTd.children()[0]);
-            let price = $(priceTd.children()[0]);
+            let category = $(catTd.children()[0]);
+            let price = $(prTd.children()[0]);
             if (name.val().length > 0 && category.val().length > 0 && price.val().length > 0) {
-                let rowToAppend = $('<tr>');
-                rowToAppend.append($(`<td>${name.val()}</td>`));
-                rowToAppend.append($(`<td>${category.val()}</td>`));
-                rowToAppend.append($(`<td>${Math.round(Number(price.val()) * 100000) / 100000}</td>`));
-                let deleteBtn = $('<button>Delete</button>').on("click", function () {
-                    rowToAppend.remove();
+                currentRow.append(`<td>${name.val()}</td>`);
+                currentRow.append(`<td>${category.val()}</td>`);
+                currentRow.append(`<td>${Math.round(Number(price.val()) * 100000) / 100000}</td>`);
+                let deleteBtn = $('<button>Delete</button>');
+                deleteBtn.on("click", function () {
+                    currentRow.remove();
                 });
-                rowToAppend.append(deleteBtn);
-                tbody.append(rowToAppend);
-                $(name).val("");
-                $(category).val("");
-                $(price).val("");
+                let delTd = $('<td>').append(deleteBtn);
+                currentRow.append(delTd);
+                $(tbody).append(currentRow);
+                name.val("");
+                category.val("");
+                price.val("");
             }
         });
-        let btnTd = $(`<td>`).append(addBtn);
-        console.log(btnTd);
-        tfootRow.append(nameTd);
-        tfootRow.append(categoryTd);
-        tfootRow.append(priceTd);
-        tfootRow.append(btnTd);
-        tfoot.append(tfootRow);
+        let btd = $('<td>').append(addButton);
+        footTr.append(btd);
+        tfoot.append(footTr);
         table.append(caption);
         table.append(thead);
         table.append(tbody);
