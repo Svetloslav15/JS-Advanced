@@ -1,11 +1,5 @@
 const expect = require("chai").expect;
-
-function sum(arr) {
-    let sum = 0;
-    for (num of arr)
-        sum += Number(num);
-    return sum;
-}
+const sum = require("../04. Sum of nums");
 
 
 describe("Sum tests", function () {

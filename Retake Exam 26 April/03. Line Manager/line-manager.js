@@ -1,16 +1,20 @@
 class LineManager {
     constructor(stops) {
+        this.stops = stops;
+        this.currentStopIndex = 0;
+        this.lastStopIndex = this._stops.length - 1;
+        this.delay = 0;
+        this.minutes = 0;
+    }
+
+    set stops(stops){
         for (let stop of stops) {
             if (typeof stop.name !== "string" || stop.name === "" ||
                 stop.timeToNext < 0 || typeof stop.timeToNext !== "number") {
                 throw new Error("Invalid Stop!");
             }
         }
-        this.stops = stops;
-        this.currentStopIndex = 0;
-        this.lastStopIndex = this.stops.length - 1;
-        this.delay = 0;
-        this.minutes = 0;
+        this._stops = stops;
     }
 
     get atDepot() {
@@ -21,7 +25,7 @@ class LineManager {
         if (this.currentStopIndex === this.lastStopIndex) {
             return "At depot";
         }
-        return this.stops[this.currentStopIndex + 1].name;
+        return this._stops[this.currentStopIndex + 1].name;
     }
 
     get currentDelay() {
@@ -33,7 +37,7 @@ class LineManager {
             throw new Error("Invalid minutes or bus is at depot!");
         }
         this.minutes += minutes;
-        this.delay += minutes - this.stops[this.currentStopIndex].timeToNext;
+        this.delay += minutes - this._stops[this.currentStopIndex].timeToNext;
         this.currentStopIndex++;
         return !this.atDepot;
     }
@@ -46,7 +50,7 @@ class LineManager {
         let result = "";
         if (this.currentStopIndex < this.lastStopIndex) {
             result = `Line summary\n` +
-                `- Next stop: ${this.stops[this.currentStopIndex + 1].name}\n` +
+                `- Next stop: ${this._stops[this.currentStopIndex + 1].name}\n` +
                 `- Stops covered: ${this.currentStopIndex}\n` +
                 `- Time on course: ${this.minutes} minutes\n` +
                 `- Delay: ${this.delay} minutes`;

@@ -1,39 +1,37 @@
 function timer() {
-    let hours = $('#hours');
-    let minutes = $('#minutes');
-    let seconds = $('#seconds');
+    $('#start-timer').on("click", startTimer);
+    $('#stop-timer').on("click", stopTimer);
+
     let interval;
+    let secs = 1;
 
-    $('#start-timer').on("click", start);
-    $('#stop-timer').on("click", stop);
-
-    function start() {
+    function startTimer() {
         if (interval) {
             clearInterval(interval);
         }
-        interval = setInterval(updateTime, 1000);
+        interval = setInterval(update, 1000);
     }
 
-    function stop() {
+    function update() {
+        let currentSec = Math.floor(secs % 60);
+        let currentMin = Math.floor(secs / 60 % 60);
+        let currentHours = Math.floor(secs / 3600);
+        if (currentHours < 10){
+            currentHours = "0" + currentHours;
+        }
+        if (currentMin < 10){
+            currentMin = "0" + currentMin;
+        }
+        if (currentSec < 10){
+            currentSec = "0" + currentSec;
+        }
+        $('#hours').text(currentHours);
+        $('#minutes').text(currentMin);
+        $('#seconds').text(currentSec);
+        secs++;
+    }
+
+    function stopTimer() {
         clearInterval(interval);
-    }
-
-    function updateTime() {
-        let currSec = Math.floor(seconds % 60);
-        let currMinutes = Math.floor(seconds / 60);
-        let currHours = Math.floor(seconds / 3600);
-        if (currSec < 10) {
-            currSec = "0" + currSec;
-        }
-        if (currMinutes < 10) {
-            currMinutes = "0" + currMinutes;
-        }
-        if (currHours < 10) {
-            currHours = "0" + currHours;
-        }
-        $("#hours").text(currHours);
-        $("#minutes").text(currMinutes);
-        $("#seconds").text(currSec);
-        seconds++;
     }
 }
