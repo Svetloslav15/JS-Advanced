@@ -14,19 +14,13 @@ class BookCollection {
         }
     }
     addBook(bookName, bookAuthor, genre){
-        if (genre == undefined){
-            genre = this.shelfGenre;
-        }
-        let book = {
-            name: bookName,
-            author: bookAuthor,
-            genre: genre
-        };
+        let book = genre !== undefined ? { bookName, bookAuthor, genre } : { bookName, bookAuthor };
         if (this.shelf.length === this.shelfCapacity){
             this.shelf.shift();
         }
         this.shelf.push(book);
         this.shelf = this.shelf.sort((a, b) => a.author.localeCompare(b.author));
+        return this;
     }
 
     throwAwayBook(bookName){
