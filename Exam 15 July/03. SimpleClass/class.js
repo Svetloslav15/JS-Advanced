@@ -1,9 +1,10 @@
 class BookCollection {
-    constructor(shelfGenre, room, shelfCapacity){
+    constructor(shelfGenre, room, shelfCapacity) {
         this.createElements(shelfGenre, room, shelfCapacity)
     }
-    createElements(shelfGenre, room, shelfCapacity){
-        if (room == "livingRoom" || room == "bedRoom" || room == "closet"){
+
+    createElements(shelfGenre, room, shelfCapacity) {
+        if (room == "livingRoom" || room == "bedRoom" || room == "closet") {
             this.room = room;
             this.shelfGenre = shelfGenre;
             this.shelf = [];
@@ -13,9 +14,10 @@ class BookCollection {
             throw new Error(`Cannot have book shelf in ${room}`);
         }
     }
-    addBook(bookName, bookAuthor, genre){
-        let book = genre !== undefined ? { bookName, bookAuthor, genre } : { bookName, bookAuthor };
-        if (this.shelf.length === this.shelfCapacity){
+
+    addBook(bookName, bookAuthor, genre) {
+        let book = genre !== undefined ? {bookName, bookAuthor, genre} : {bookName, bookAuthor};
+        if (this.shelf.length === this.shelfCapacity) {
             this.shelf.shift();
         }
         this.shelf.push(book);
@@ -23,11 +25,11 @@ class BookCollection {
         return this;
     }
 
-    throwAwayBook(bookName){
+    throwAwayBook(bookName) {
         this.shelf = this.shelf.filter(x => x.name !== bookName);
     }
 
-    showBooks(genre){
+    showBooks(genre) {
         let currentCollection = this.shelf.filter(x => x.genre === genre);
         let result = `Results for search \"${genre}\":\n`;
         for (let currentBook of currentCollection) {
@@ -36,20 +38,20 @@ class BookCollection {
         return result;
     }
 
-    get shelfCondition(){
+    get shelfCondition() {
         let freeSlots = this.shelfCapacity - this.shelf.length;
-        if (freeSlots <= 0){
+        if (freeSlots <= 0) {
             freeSlots = 0;
         }
         return freeSlots;
     }
 
-    toString(){
+    toString() {
         let result = "";
-        if (this.shelf.length === 0){
+        if (this.shelf.length === 0) {
             result = "It's an empty shelf";
         }
-        else{
+        else {
             result = `\"${this.shelfGenre}\" shelf in ${this.room} contains:\n`;
             for (let currentBook of this.shelf) {
                 result += `\uD83D\uDCD6 "${currentBook.name}" - ${currentBook.author}\n`;
