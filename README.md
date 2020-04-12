@@ -6,7 +6,7 @@ Here are all exercises from the course Programming Fundamentals in SoftUni.
 [02. DOM Manipulation](https://github.com/Svetloslav15/JS-Advanced/tree/master/02.%20DOM%20Manipulation)</br>
 [03.DOM Manipulation Exercise](https://github.com/Svetloslav15/JS-Advanced/tree/master/03.DOM%20Manipulation%20Exercise)</br>
 [04. jQuery Library](https://github.com/Svetloslav15/JS-Advanced/tree/master/04.%20jQuery%20Library)</br>
-[05. Advanced Functions Lab]([https://github.com/Svetloslav15/JS-Advanced/tree/master/05.%20Advanced%20Functions%20Lab)</br>
+[05. Advanced Functions Lab](https://github.com/Svetloslav15/JS-Advanced/tree/master/05.%20Advanced%20Functions%20Lab)</br>
 [06. jQuery Library Exercise](https://github.com/Svetloslav15/JS-Advanced/tree/master/05.%20jQuery%20Library%20Exercise)</br>
 [07. Advanced Functions Exercise](https://github.com/Svetloslav15/JS-Advanced/tree/master/07.%20Advanced%20Functions%20Exercise)</br>
 [08. Object Composition](https://github.com/Svetloslav15/JS-Advanced/tree/master/08.%20Object%20Composition)</br>
